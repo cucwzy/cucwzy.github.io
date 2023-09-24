@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Shuyan</title>
+  <title>Hexo</title>
   
-  <subtitle>微我无酒，以敖以游</subtitle>
+  
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>Shuyan</name>
+    <name>wyy</name>
     
   </author>
   
@@ -20,16 +20,15 @@
     <title>Hello Hexo</title>
     <link href="http://example.com/2023/09/24/hello-world/"/>
     <id>http://example.com/2023/09/24/hello-world/</id>
-    <published>2023-09-24T03:01:06.289Z</published>
+    <published>2023-09-24T11:43:01.732Z</published>
     <updated>2023-09-24T07:04:04.729Z</updated>
     
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><h3 id="头部设置"><a href="#头部设置" class="headerlink" title="头部设置"></a>头部设置</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">title: 文章名称</span><br><span class="line"><span class="built_in">date</span>: 2021-09-01 09:36:05</span><br><span class="line">tags: [标签1,标签2]</span><br><span class="line">categories: </span><br><span class="line">- <span class="string">"类别"</span></span><br><span class="line">- <span class="string">"子类别"</span></span><br><span class="line">comments: <span class="literal">true</span> <span class="comment"># 是否可评论</span></span><br><span class="line">toc: <span class="literal">true</span> <span class="comment"># 是否显示文章目录</span></span><br><span class="line">top: <span class="literal">true</span> <span class="comment"># 置顶设置</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 设置图片</span></span><br><span class="line">cover: /img/hello-world.jpg</span><br><span class="line">coverWidth: 1200</span><br><span class="line">coverHeight: 750</span><br></pre></td></tr></tbody></table></figure><h3 id="友链格式"><a href="#友链格式" class="headerlink" title="友链格式"></a>友链格式</h3><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">- [![标题](https://example.com/logo.png)](https://example.com/ "标题")</span><br></pre></td></tr></tbody></table></figure><p><img src="https://shuyancoding.oss-cn-beijing.aliyuncs.com/1.jpg"></p>]]></content>
+    
     
       
       
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
       
     
     
